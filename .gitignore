@@ -1,0 +1,11 @@
+# Default ignored files
+/.idea/
+/results
+/log
+/browser
+/output.xml
+/playwright-log.txt
+/log.html
+/report.html
+/.vscode
+__pycache__
